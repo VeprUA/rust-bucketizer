@@ -1,6 +1,6 @@
 # Rust Bucketizer
 
-Create for slotting numerical values into buckets.
+Crate for slotting numerical values into buckets.
 To do this create a `Bucketizer` and add your buckets to it,
 then use the `.bucketize()` method to get back the bucket a value fits into.
 
